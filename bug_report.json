@@ -1,4 +1,4 @@
-	{
+{
 	  "ID": 1,
   	"Title": "Bug Title",
   	"Severity": "Critical"
@@ -8,4 +8,4 @@
   	"Enviroment": "win 11, chrome 107",
   	"Comment": "text"
     	"Attachment": "File.jpg"
-	}
+}
